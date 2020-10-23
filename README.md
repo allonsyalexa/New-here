@@ -1,5 +1,6 @@
 # New-here
-Starting from zero here &amp; trying to learn to code
+<h1>Learning to code is hard</h1>
+<h3>...like really hard</h3>
 
-This is my virtual playground for coding. 
-I've got a lot to learn so I'm trying to figure out how to do it through trial and error. 
+This is my virtual playground for coding.
+Follow along as I try to learn what I'm doing through trial & error. 
