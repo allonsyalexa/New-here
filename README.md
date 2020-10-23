@@ -1,4 +1,3 @@
-# New-here
 <h1>Learning to code is hard</h1>
 <h3>...like really hard</h3>
 
